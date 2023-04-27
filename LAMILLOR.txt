@@ -1,2 +1,2 @@
-      Cancer
-      No Cancer
+Cancer
+No Cancer
